@@ -1,6 +1,6 @@
 package com.tedu.sp01.service;
 
-import java.util.Lists;
+import java.util.List;
 
 import com.tedu.sp01.pojo.Item;
 
